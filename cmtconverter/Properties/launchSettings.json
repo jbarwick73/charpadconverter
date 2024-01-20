@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "cmtconverter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\c64dev\\CharpadMaps\\room_kitchen - Project.asm\""
+    }
+  }
+}
